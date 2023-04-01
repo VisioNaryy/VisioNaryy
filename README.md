@@ -18,7 +18,7 @@
 <p>
  <h1 align="center">My Skills:</h1>
  
-  - **Backend:** .NET, C#, Redis, Microsoft SQL Server, T-SQL, Kafka, Dapper, GraphQL, REST APIs, Microservices, Docker
+  - **Backend:** .NET, C#, Redis, Microsoft SQL Server, T-SQL, Kafka, Dapper, GraphQL, REST APIs, Microservices, Docker, gRPC
   - **Other:** Git, XUnit
  
 </p>
