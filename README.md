@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" target="_blank" width="85.25" height="28">
 </p>
 
  <h1 align="center">Contacts:</h1>
