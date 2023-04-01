@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" target="_blank">
+</p>
 
-<!--
-**VisioNaryy/VisioNaryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h1 align="center">Contacts:</h1>
+ 
+ - LinkedIn: http://linkedin.com/in/daniil-okonskiy-197543225
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+ <h1 align="center">My Skills:</h1>
+ 
+  - **Backend:** .NET, C#, Redis, Microsoft SQL Server, T-SQL, Kafka, Dapper, GraphQL, REST APIs, Microservices
+  - **Other:** Git, XUnit
+ 
+</p>
+
+<br>
