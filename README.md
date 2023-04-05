@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
-  <img src="https://4.bp.blogspot.com/-C-AOrnoABdM/Vi5ztkseCVI/AAAAAAAABLQ/HcvA0uDyKH8/s1600/image00.png" target="_blank" width="145" height="28">
+  <img src="https://avatars.githubusercontent.com/u/7802525?s=280&v=4" target="_blank" width="75" height="28">
 </p>
 
 <h1 align="center">Get in Touch:</h1>
