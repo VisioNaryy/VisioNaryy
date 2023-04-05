@@ -9,9 +9,9 @@
   <img src="https://pbs.twimg.com/media/E7jK-UlXMAY1JJM.png" target="_blank" width="85.25" height="28">
 </p>
 
- <h1 align="center">Contacts:</h1>
+<h1 align="center">Get in Touch:</h1>
  
- - LinkedIn: http://linkedin.com/in/daniil-okonskiy-197543225
+ [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniil-okonskiy-197543225)
 
 <br>
 
