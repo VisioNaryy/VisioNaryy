@@ -11,7 +11,7 @@
 
 <h1 align="center">Get in Touch:</h1>
  
-<a href="http://linkedin.com/in/daniil-okonskiy-197543225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="http://linkedin.com/in/daniil-okonskiy-197543225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  align="center"></a>
 
 <br>
 
