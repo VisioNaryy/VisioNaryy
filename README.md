@@ -1,7 +1,5 @@
 <div align="center">
 
-# Daniil Okonskiy
-
 **Senior Backend Engineer · C# / .NET · Distributed Systems · Payments**
 
 Building reliable, high-throughput backend systems where **consistency, performance, and failure recovery** matter.
@@ -46,20 +44,6 @@ Currently working on payments at **[Snoonu](https://snoonu.com/)**; previously b
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 **Engineering focus:** Distributed systems · Event-driven architecture · DDD · CQRS · Transactional consistency · Idempotency · Fault tolerance · Performance optimization
-
-### Selected experience
-
-**[Snoonu](https://snoonu.com/) — Backend Engineer, Payments** · 2025–present
-
-- Led a **Checkout.com payment integration** with fault-tolerant transaction and webhook processing at up to **3,000 RPS**.
-- Built a **subscription billing engine** with recurring payments, lifecycle state management, and retry-safe, idempotent processing.
-- Co-designed a unified POS integration platform that **reduced new partner onboarding time by 50%**.
-
-**[Kaspi.kz](https://kaspi.kz/) — .NET Backend Developer** · 2022–2025
-
-- Developed core payment services for a platform serving **10M+ daily active users**, including APIs handling up to **20,000 RPS**.
-- Improved SmartPOS payment and activation reliability, reducing **activation failures by over 60%** and **incident investigation time by ~30%**.
-- Improved backend latency by **~20% under peak load** through performance tuning and request-flow changes.
 
 ### Currently exploring
 
