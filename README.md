@@ -53,6 +53,6 @@ I'm particularly interested in transaction indexing, payment lifecycles, concurr
 
 ### Let's connect
 
-I'm open to **select remote freelance and consulting opportunities** involving backend development, distributed systems, payment integrations, and performance engineering.
+I'm open to **remote freelance and consulting opportunities** involving backend development, distributed systems, payment integrations, and performance engineering.
 
 [**Connect with me on LinkedIn →**](https://www.linkedin.com/in/daniil-okonskiy/)
