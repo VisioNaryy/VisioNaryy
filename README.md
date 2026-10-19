@@ -47,7 +47,7 @@ Currently working on payments at **[Snoonu](https://snoonu.com/)**; previously b
 
 ### Currently exploring
 
-**Go (Golang)** and **blockchain / crypto payment infrastructure** — applying my background in reliable payment systems and distributed processing to a new ecosystem.
+**Go (Golang)** and **blockchain / crypto payment infrastructure** - applying my background in reliable payment systems and distributed processing to a new ecosystem.
 
 I'm particularly interested in transaction indexing, payment lifecycles, concurrency, and fault-tolerant backend services.
 
